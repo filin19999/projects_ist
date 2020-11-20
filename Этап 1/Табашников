@@ -1,0 +1,4 @@
+CREATE TABLE year_of_adoption (
+    id_year_of_adoption INTEGER PRIMARY KEY,
+    date_of_adoption    DATE
+);
